@@ -1,7 +1,11 @@
 # express-ts-sql
 
 ## Description
+    This project is a backend web application that primarily focuses on user authentication and related functionalities. It provides a secure API service with endpoints for user registration, sign-in, password reset, password change all backed by robust validation and error handling. The application interacts with a database, likely for user data storage, and generates API docs for ease of use.
 
+    Security features like JSON Web Token (JWT), Helmet middleware, and custom error handling enhance its reliability. Additionally, email communication is integrated for password-related action.
+
+    Overall, This project serves as a foundation for developing Web or Mobile applications with secured user authentication capability.
 ## Logger Tools
 ### Set following env to your code.
 ```sh
